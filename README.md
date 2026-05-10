@@ -35,8 +35,8 @@ Contact us on [Discord](https://discord.gg/F6mBjR8Jnt) to purchase a paid API ke
 | gemini-2.5-flash-lite:search | $0.0055 | $0.022 |
 | gemini-2.5-pro | $0.125 | $0.75 |
 | gemini-2.5-pro:search | $0.1375 | $0.825 |
-| gemini-robotics-er-1.5-preview | $0.1 | $0.5 |
-| gemini-robotics-er-1.5-preview:search | $0.11 | $0.55 |
+| gemini-robotics-er-1.6-preview | $0.1 | $0.5 |
+| gemini-robotics-er-1.6-preview:search | $0.11 | $0.55 |
 
 #### Gemma Models
 
