@@ -25,9 +25,14 @@ Contact us on [Discord](https://discord.gg/F6mBjR8Jnt) to purchase a paid API ke
 |-------|----------------|-----------------|
 | gemini-3.1-pro-preview | $0.20 | $0.90 |
 | gemini-3.1-pro-preview:search | $0.22 | $0.99 |
+| gemini-3.1-pro-preview-customtools | $0.20 | $0.90 |
 | gemini-3-flash-preview | $0.025 | $0.15 |
 | gemini-3-flash-preview:search | $0.0275 | $0.165 |
 | gemini-3.1-flash-lite | $0.0125 | $0.075 |
+| gemini-2.5-flash | $0.015 | $0.125 |
+| gemini-2.5-flash:search | $0.0165 | $0.1375 |
+| gemini-2.5-pro | $0.125 | $0.75 |
+| gemini-2.5-pro:search | $0.1375 | $0.825 |
 | gemini-3.1-flash-lite-preview:search | $0.01375 | $0.0825 |
 | gemini-2.5-flash-lite | $0.005 | $0.02 |
 | gemini-2.5-flash-lite:search | $0.0055 | $0.022 |
