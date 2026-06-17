@@ -19,7 +19,7 @@ A hosted OpenAI-compatible API for Google's Gemini and Gemma, Anthropic's Claude
 
 Contact us on [Discord](https://discord.gg/F6mBjR8Jnt) to purchase a paid API key.
 
-👉 **[View live models & pricing](http://server2.api.nikkcocompany.store:4000/ui/model_hub_table/)**
+👉 **[View models & pricing](http://server2.api.nikkcocompany.store:4000/ui/model_hub_table/)**
 
 > Models with `:search` suffix enable automatic Google Search grounding.
 > **Support `:search`:** all Gemini models, `gemma-4-26b-a4b-it`, `gemma-4-31b-it`
