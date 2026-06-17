@@ -19,34 +19,9 @@ A hosted OpenAI-compatible API for Google's Gemini and Gemma, Anthropic's Claude
 
 Contact us on [Discord](https://discord.gg/F6mBjR8Jnt) to purchase a paid API key.
 
-#### Gemini Models
-
-| Model | Input (per 1M) | Output (per 1M) |
-|-------|----------------|-----------------|
-| gemini-3.1-pro-preview | $0.20 | $0.90 |
-| gemini-3.1-pro-preview:search | $0.22 | $0.99 |
-| gemini-3.1-pro-preview-customtools | $0.20 | $0.90 |
-| gemini-3-flash-preview | $0.025 | $0.15 |
-| gemini-3-flash-preview:search | $0.0275 | $0.165 |
-| gemini-3.1-flash-lite | $0.0125 | $0.075 |
-| gemini-3.1-flash-lite-preview:search | $0.01375 | $0.0825 |
-| gemini-2.5-flash-lite | $0.005 | $0.02 |
-| gemini-2.5-flash-lite:search | $0.0055 | $0.022 |
-| gemini-robotics-er-1.6-preview | $0.1 | $0.5 |
-| gemini-robotics-er-1.6-preview:search | $0.11 | $0.55 |
-
-#### Gemma Models
-
-| Model | Input (per 1M) | Output (per 1M) |
-|-------|----------------|-----------------|
-| gemma-4-26b-a4b-it | $0.0065 | $0.02 |
-| gemma-4-26b-a4b-it:search | $0.00715 | $0.022 |
-| gemma-4-31b-it | $0.007 | $0.02 |
-| gemma-4-31b-it:search | $0.0077 | $0.022 |
-
+👉 **[View live models & pricing](http://server2.api.nikkcocompany.store:4000/ui/model_hub_table/)**
 
 > Models with `:search` suffix enable automatic Google Search grounding.
->
 > **Support `:search`:** all Gemini models, `gemma-4-26b-a4b-it`, `gemma-4-31b-it`
 
 ## Features
