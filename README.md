@@ -1,6 +1,6 @@
 # Cheap-ai-api
 
-A hosted OpenAI-compatible API for Google's Gemini abd Gemma AI models.
+A hosted OpenAI-compatible API for Google's Gemini and Gemma, Anthropic's Claude Opus and Sonnet, and OpenAI's GPT models.
 
 ## 🚀 API Access
 
