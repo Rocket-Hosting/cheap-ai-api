@@ -1,4 +1,4 @@
-# Gemini AI Cloud
+# Cheap-ai-api
 
 A hosted OpenAI-compatible API for Google's Gemini abd Gemma AI models.
 
