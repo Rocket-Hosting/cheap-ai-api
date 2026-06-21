@@ -6,20 +6,20 @@ A hosted OpenAI-compatible API for Google's Gemini and Gemma, Anthropic's Claude
 
 ### Free API Key
 - **API Key:** `sk-LealjQcrXfljR48o38hklg`
-- **Base URL:** `http://server2.api.nikkcocompany.store:4000/v1/chat/completions`
+- **Base URL:** `https://api.apizio.com/v1/chat/completions`
 - Currently has access to **all models** (same as paid keys)
 - ⚠️ **Free API keys can be deleted, edited, or changed at any time, any day — with or without notice.** They are not guaranteed to remain active or functional.
 - ⚠️ Model availability for free keys may change at any time, with or without notice
-- Updates will **always** be shared first in [Discord](https://discord.gg/F6mBjR8Jnt), and later posted on GitHub
+- Updates will **always** be shared first in [Discord](httpss://discord.gg/F6mBjR8Jnt), and later posted on GitHub
 - 👉 For reliable, uninterrupted access, consider upgrading to a **paid API key**.
 
-👉 **Join the [Discord server](https://discord.gg/F6mBjR8Jnt)** to stay updated!
+👉 **Join the [Discord server](httpss://discord.gg/F6mBjR8Jnt)** to stay updated!
 
 ### Paid API Keys – Pricing
 
-Contact us on [Discord](https://discord.gg/F6mBjR8Jnt) to purchase a paid API key.
+Contact us on [Discord](httpss://discord.gg/F6mBjR8Jnt) to purchase a paid API key.
 
-👉 **[View models & pricing](http://server2.api.nikkcocompany.store:4000/ui/model_hub_table/)**
+👉 **[View models & pricing](https://api.apizio.com/ui/model_hub_table/)**
 
 > Models with `:search` suffix enable automatic Google Search grounding.
 > **Support `:search`:** all Gemini models, `gemma-4-26b-a4b-it`, `gemma-4-31b-it`
@@ -43,7 +43,7 @@ Set your API key and base URL in your OpenAI SDK:
 from openai import OpenAI
 
 client = OpenAI(
-base_url="http://server2.api.nikkcocompany.store:4000/v1",
+base_url="https://api.apizio.com/v1",
 api_key="sk-LealjQcrXfljR48o38hklg"
 )
 
@@ -59,7 +59,7 @@ print(response.choices[0].message.content)
 import OpenAI from 'openai';
 
 const openai = new OpenAI({
-baseURL: 'http://server2.api.nikkcocompany.store:4000/v1',
+baseURL: 'https://api.apizio.com/v1',
 apiKey: 'sk-LealjQcrXfljR48o38hklg'
 });
 
@@ -72,7 +72,7 @@ console.log(completion.choices[0].message.content);
 
 **cURL:**
 ```bash
-curl http://server2.api.nikkcocompany.store:4000/v1/chat/completions \
+curl https://api.apizio.com/v1/chat/completions \
 -H "Authorization: Bearer sk-LealjQcrXfljR48o38hklg" \
 -H "Content-Type: application/json" \
 -d '{
@@ -170,4 +170,4 @@ Standard OpenAI chat completion response:
 
 ## Support
 
-For issues or questions, updates join our [Discord server](https://discord.gg/F6mBjR8Jnt)
+For issues or questions, updates join our [Discord server](httpss://discord.gg/F6mBjR8Jnt)
